@@ -1,0 +1,39 @@
+# Using Realm Mobile Database with Swift 4.0 (Insert, Update, Delete, List)
+
+#### **Introduction**
+
+A big problem that many developers face nowadays is dealing with database. To have your app in app store in top list is not quite easy and to make the app ready for scalability is pretty hard. Very Recently I started using Realm that can be considered as a perfect replacement for “SQLite” and “Core Data”.
+
+If you need step by step explanation of the topic, you can check our article here: [Using Realm Mobile Database with Swift 4.0 (Insert, Update, Delete, List)](https://insights.nimblechapps.com/app-development/ios-app-development/using-realm-mobile-database-with-swift-4-0-insert-update-delete-list)
+
+
+#### **This tutorial covers following things:**
+1.	What is Realm?
+2.	Why Realm?
+3.	Xcode configuration and required tools
+4.	Adding Details to Database
+5.	Retrieve the data from database
+6.	Get the details of selected person
+7.	Edit details
+8.	Delete data
+9.	Realm list
+
+#### **Final output**
+<br/>
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2018/02/Final-output-Using-Realm-Mobile-Database.png)](https://insights.nimblechapps.com/app-development/ios-app-development/using-realm-mobile-database-with-swift-4-0-insert-update-delete-list)
+
+This tutorial has been presented by Nimblechapps - The coolest [iPhone App Development Company](https://www.nimblechapps.com/ios-app-development-company). Checkout our [App Development Portfolio](https://www.nimblechapps.com/portfolio/mobile-app-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### **Read other Interesting iOS blog:**
+1.	[How to Use Firebase to Send Notifications in iOS](https://insights.nimblechapps.com/app-development/ios-app-development/how-to-use-firebase-to-send-notifications-in-ios)
+2.	[How to work with BLE Devices on iOS](https://insights.nimblechapps.com/app-development/ios-app-development/how-to-work-with-ble-devices-on-ios)
+3.	[How to Make Tinder-like Swipe Gesture for iOS](https://insights.nimblechapps.com/app-development/ios-app-development/how-to-make-tinder-like-swipe-gesture-for-ios)
+4.	[Be Awesome with ‘Font Awesome'](https://insights.nimblechapps.com/app-development/ios-app-development/awesome-font-ios)
+5.	[Parsing XML Web Service in iOS With Swift](https://insights.nimblechapps.com/app-development/ios-app-development/parsing-xml-web-service-ios-swift)
+
+## **License**
+
+Copyright (c) 2018 Nimblechapps
